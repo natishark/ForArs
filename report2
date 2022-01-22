@@ -1,0 +1,9 @@
+[26355.280600] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-0.slice/session-1.scope,task=bash,pid=4018,uid=0
+[26355.281128] Out of memory: Killed process 4018 (bash) total-vm:1352408kB, anon-rss:801040kB, file-rss:0kB, shmem-rss:0kB, UID:0 pgtables:2284kB oom_score_adj:0
+[26355.352908] oom_reaper: reaped process 4018 (bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+15000000
+14000000
+[26826.346080] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-0.slice/session-1.scope,task=bash,pid=4017,uid=0
+[26826.346834] Out of memory: Killed process 4017 (bash) total-vm:2628108kB, anon-rss:1661724kB, file-rss:0kB, shmem-rss:0kB, UID:0 pgtables:4788kB oom_score_adj:0
+[26826.584506] oom_reaper: reaped process 4017 (bash), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+30000000
